@@ -10,6 +10,8 @@ export default {
         customColor1: "#F075AA",
         customColor2: "#ADD899",
         customColor3: "#FFDE95",
+        customColor4: "#F5F5DC",
+        aqua: "#222",
       }
     },
   },
